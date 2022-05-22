@@ -1,6 +1,6 @@
 /* Import components */
 
-
+@import url("components/banner.css");
 
 
 
@@ -8,7 +8,9 @@
 
 /* Basic css */
 
+
 body {
 
 	background: blueviolet;
+	margin: 0;
 }

@@ -1,0 +1,14 @@
+.banner {
+	height: 20vh;
+	background: black;
+	color: whitesmoke;
+	background-size: cover;
+	margin: 0;
+	text-align: center;
+
+
+}
+
+.banner h1 {
+	margin: 0;
+}
