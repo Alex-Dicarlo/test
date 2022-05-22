@@ -11,6 +11,37 @@
 
 body {
 
-	background: blueviolet;
-	margin: 0;
+	background: url(../images/Anime.jpeg);
+	background-size: cover;
+	margin-top: 30px;
+
+}
+
+p {
+
+	color: darkred;
+}
+
+.first h2, p {
+	margin-left: 20px;
+	text-align: center;
+}
+
+#container {
+	display: flex;
+	justify-content: center;
+}
+
+.big-box {
+
+	height: 1000px;
+	width: 1000px;
+	background: black;
+	opacity: .2;
+
+}
+
+.big-box {
+	color: whitesmoke;
+	text-align: center;
 }
